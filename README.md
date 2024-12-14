@@ -16,7 +16,7 @@
 
 ### Εγκατάσταση
 
-Ο φάκελος `jazzForTheDead` περιέχει ολόκληρο το project, όπως δημιουργήθηκε από το PyCharm, και περιλαμβάνει ένα ολοκληρωμένο virtual environment για την Python 3.12.4 με την έκδοση 2.6.1 του pygame. Για να τρέξετε τον κώδικα σε περιβάλλον που θα στήσετε μόνοι σας, θα χρειαστείτε τους υποφακέλους `database`, `fonts`, `graphics` και `sounds` και τα αρχεία `jazz_client.py`,` jazz_operations.py` και `jazz_server.py`.
+Ο φάκελος `jazzForTheDead` περιέχει ολόκληρο το project, χωρίς όμως το virtual environment που δημιουργήθηκε μέσω του PyCharm. Το development έγινε με την Python 3.12.4 και το pygame 2.6.1.
 
 Για να παίξετε, ο ένας παίχτης τρέχει το αρχείο `jazzForTheDead/jazz_server.py` και ο άλλος το `jazzForTheDead/jazz_client.py`. Δεν έχει σημασία ποιο θα ξεκινήσει να τρέχει πρώτο. Και τα δύο αρχεία χρησιμοποιούν σταθερές, μεταβλητές και συναρτήσεις του αρχείου `jazzForTheDead/jazz_operations.py`.
 
@@ -27,7 +27,7 @@
 
 Η τεκμηρίωση της υλοποίησης του παιχνιδιού βρίσκεται στο αρχείο `Εργασία Αλγοριθμικής σκέψης - Παπασταματίου.pdf` και περιέχει ανάλυση του game design και επεξήγηση των σημείων του κώδικα που δεν είναι ευνόητα μόνο από τα σχόλια.
 
-Το βίντεο `gameplay_video.mp4` παρουσιάζει μία πλήρη παρτίδα από την πλευρά του server και στο τέλος δείχνει το αρχικό μενού από την πλευρά του client. Το gameplay είναι πανομοιότυπο για τους δύο παίχτες.
+Το αρχείο `gameplay_video.mp4` δεν γινόταν να ανέβει στο github λόγω μεγέθους, οπότε θα το βρείτε [στο OneCloud του ακαδημαϊκού λογαριασμού μου](https://uowmgr-my.sharepoint.com/:v:/g/personal/mpw00070_uowm_gr/Efxbg9EZw25EmERwbJN0Rv8BbMFLaKJ0WjcjhU7egiquQQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ffceKm) (επιλέξτε 1080p αν δεν επιλεχθεί αυτόματα). Αν δε λειτουργεί, παρακαλώ επικοινωνήστε μαζί μου. Το βίντεο παρουσιάζει μία πλήρη παρτίδα από την πλευρά του server και στο τέλος δείχνει το αρχικό μενού από την πλευρά του client. Το gameplay είναι πανομοιότυπο για τους δύο παίχτες.
 
 <br><br>
 **Καλή διασκέδαση!**
