@@ -19,6 +19,8 @@
 Ο φάκελος `jazzForTheDead` περιέχει ολόκληρο το project, όπως δημιουργήθηκε από το PyCharm, και περιλαμβάνει ένα ολοκληρωμένο virtual environment για την Python 3.12.4 με την έκδοση 2.6.1 του pygame. Για να τρέξετε τον κώδικα σε περιβάλλον που θα στήσετε μόνοι σας, θα χρειαστείτε τους υποφακέλους `database`, `fonts`, `graphics` και `sounds` και τα αρχεία `jazz_client.py`,` jazz_operations.py` και `jazz_server.py`.
 
 Για να παίξετε, ο ένας παίχτης τρέχει το αρχείο `jazzForTheDead/jazz_server.py` και ο άλλος το `jazzForTheDead/jazz_client.py`. Δεν έχει σημασία ποιο θα ξεκινήσει να τρέχει πρώτο. Και τα δύο αρχεία χρησιμοποιούν σταθερές, μεταβλητές και συναρτήσεις του αρχείου `jazzForTheDead/jazz_operations.py`.
+
+Ο φάκελος `jazzForTheDead/database` περιέχει μία ενδεικτική βάση δεδομένων με ονόματα νοητών ομάδων και τα σκορ τους, για να είναι ρεαλιστικό το leaderboard στο τέλος του παιχνιδιού. Αν διαγράψετε το αρχείο `jazzForTheDead/database/highscore_db.sqlite`, ο server θα δημιουργήσει μία νέα, κενή βάση δεδομένων όταν τρέξει.
 <br><br>
 
 ### Παρελκόμενα
