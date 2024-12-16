@@ -27,7 +27,7 @@
 
 Η τεκμηρίωση της υλοποίησης του παιχνιδιού βρίσκεται στο αρχείο `Εργασία Αλγοριθμικής σκέψης - Παπασταματίου.pdf` και περιέχει ανάλυση του game design και επεξήγηση των σημείων του κώδικα που δεν είναι ευνόητα μόνο από τα σχόλια.
 
-Το αρχείο `gameplay_video.mp4` δεν γινόταν να ανέβει στο github λόγω μεγέθους, οπότε θα το βρείτε [στο OneCloud/SharePoint του ακαδημαϊκού λογαριασμού μου](https://uowmgr-my.sharepoint.com/:v:/g/personal/mpw00070_uowm_gr/Efxbg9EZw25EmERwbJN0Rv8BbMFLaKJ0WjcjhU7egiquQQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ffceKm) (επιλέξτε 1080p αν δεν επιλεχθεί αυτόματα). Αν δε λειτουργεί, παρακαλώ επικοινωνήστε μαζί μου. Το βίντεο παρουσιάζει μία πλήρη παρτίδα από την πλευρά του server και στο τέλος δείχνει το αρχικό μενού από την πλευρά του client. Το gameplay είναι πανομοιότυπο για τους δύο παίχτες.
+Το αρχείο `gameplay_video.mp4` δεν γινόταν να ανέβει στο github λόγω μεγέθους, οπότε θα το βρείτε [στο OneDrive/SharePoint του ακαδημαϊκού λογαριασμού μου](https://uowmgr-my.sharepoint.com/:v:/g/personal/mpw00070_uowm_gr/Efxbg9EZw25EmERwbJN0Rv8BbMFLaKJ0WjcjhU7egiquQQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ffceKm) (επιλέξτε 1080p αν δεν επιλεχθεί αυτόματα). Αν δε λειτουργεί, παρακαλώ επικοινωνήστε μαζί μου. Το βίντεο παρουσιάζει μία πλήρη παρτίδα από την πλευρά του server και στο τέλος δείχνει το αρχικό μενού από την πλευρά του client. Το gameplay είναι πανομοιότυπο για τους δύο παίχτες.
 
 <br><br>
 **Καλή διασκέδαση!**
